@@ -10,11 +10,6 @@
 </span>
        <br />
 
-    <select>
-        <option>11111</option>
-        <option>11111</option>
-        <option>11111</option>
-    </select>
 
 <!---
 pratheek-karje/pratheek-karje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
