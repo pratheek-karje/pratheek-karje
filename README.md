@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<br />
+<image src="https://github.com/favicon.ico" />
+       <br />
 
     <select>
         <option>11111</option>
