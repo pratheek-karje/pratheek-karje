@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 
 <br />
-<image src="https://github.com/favicon.ico" />
+<span style="background-color: #aaaa00">
+       <image src="https://github.com/favicon.ico" />
+</span>
        <br />
 
     <select>
